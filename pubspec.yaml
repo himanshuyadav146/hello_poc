@@ -1,7 +1,7 @@
 name: hello_poc
-description: A new Flutter package project.
-version: 1.0.0
-homepage:
+description: Adding UI
+version: 1.0.1
+homepage: https://github.com/himanshuyadav146/hello_poc
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
